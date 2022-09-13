@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 /**
  * print_to_98 - prints numbers to 98
  * @n: first parameter
